@@ -1,0 +1,10 @@
+    "name": "news-api",
+{
+    "description": "An API that exposes news in the form of a response that is accepted by ChatBee",
+    "repository": "https://github.com/SiddAjmera/NewsAPIForChatfuel.git",
+    "keywords": [
+        "news",
+        "api",
+        "ChatBee"
+    ]
+}
